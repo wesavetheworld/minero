@@ -6,6 +6,6 @@ It uses [CoinHive](https://coinhive.com)’s miner to mine [Monero (XMR)](https:
 
 All the pieces are hosted for free and the sources are public.
 
-Minero is a proof-of-concept and is the result of a self-hatred fuelled narcotics induced 48hs-straight coding extravaganza held during a rainy weekend in Buenos Aires. Don’t expect this code to be rock solid.
+Minero is a proof-of-concept and is the result of a self-hatred fuelled narcotics-induced 48hs-straight coding extravaganza held during a rainy weekend in Buenos Aires. Don’t expect this code to be rock solid.
 
 If you happen to find any bugs, or if you think I might be breaking some ToS, reach me out [@juancazala](https://twitter.com/juancazala).
